@@ -3,6 +3,12 @@
 This project is a full RTL-to-GDS implementation of a 16-bit pipelined ALU that I built on the SAED 32nm PDK using the Synopsys flow. I took the design all the way from Verilog RTL to a routed GDSII layout, going through verification, synthesis, and place-and-route.
  
 I built this to get hands-on with the complete physical design flow rather than just reading about it, so I could actually see how RTL becomes real gates and then a physical chip.
+
+
+
+## Layout
+![Routed ALU layout](layout.png)
+
  
 ## The design
  
